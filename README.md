@@ -50,4 +50,26 @@ Tools:
 
 ## Step 8: Practice Scenario: Account lockout 
 
+Sent ticket from AD user Bryce Harper which is received by and assigned to Help Desk Agent JT Realmuto. Agent verifies user identity, unlocks account, and forces password change for user. Ticket is resolved. 
+
+### User account locked 
+
+![Locked Account](screenshots/useraccountlocked.png)
+
+### Communication between user and agent
+
+![osticket communications](screenshots/osticketcommunications.png)
+
+### Unlocking user account 
+
+![Unlocking Account](screenshots/unlockingaccount.png)
+
+### User updating password
+
+![User updating password](screenshots/newpassword.png)
+
+### Ticket Resolved 
+
+![Ticket Resolved](screenshots/resolvedticket.png)
+
 
