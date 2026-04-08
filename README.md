@@ -39,8 +39,8 @@ Tools:
 
 ### Agents, Departments, and End Users setup
 ![osTicket full team](screenshots/osticket%20agents.png)
-![osTicket full team](screenshots/osTicket%20departments.png)
-![osTicket full team](screenshots/osticket%20realusersforAD.png)
+![](screenshots/osTicket%20departments.png)
+![](screenshots/osticket%20realusersforAD.png)
 
 ## Step 7: Configured SLAs and Help Topics 
 
