@@ -38,7 +38,7 @@ Tools:
 ## Step 6: Configured Agents, Roles, Departments, and End Users
 
 ### Agents, Departments, and End Users setup
-![osTicket full team](screenshots/osticket%20agents.png)
+![](screenshots/osticket%20agents.png)
 ![](screenshots/osTicket%20departments.png)
 ![](screenshots/osticket%20realusersforAD.png)
 
