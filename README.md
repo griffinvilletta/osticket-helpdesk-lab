@@ -2,13 +2,14 @@
 
 This project simulates a real help desk ticketing system using osTicket and HeidiSQL 
 
-Tools: 
--Virtual box
--Windows Server 2025
--Windows 11 Pro
--ADDS, DNS, DHCP, and IIS
--PHP
--MySQL and HeidiSQL 
+## Tools: 
+
+- Virtual box
+- Windows Server 2025
+- Windows 11 Pro
+- ADDS, DNS, DHCP, and IIS
+- PHP
+- MySQL and HeidiSQL 
 
 ## Step 1: Installed IIS to setup functioning Windows Server 
 
@@ -37,15 +38,18 @@ Tools:
 
 ## Step 6: Configured Agents, Roles, Departments, and End Users
 
-### Agents, Departments, and End Users setup
+### Agents
 ![](screenshots/osticket%20Agents.png)
+### Departments
 ![](screenshots/osTicket%20departments.png)
+### Users
 ![](screenshots/osticket%20realusersforAD.png)
 
 ## Step 7: Configured SLAs and Help Topics 
 
-### Service Level Agreements and Help Topics
+### Service Level Agreements
 ![SLAs](screenshots/osTicketSLAs.png)
+### Help Topics
 ![Help Topics](screenshots/Help%20topics.png)
 
 ## Step 8: Practice Scenario: Account lockout 
